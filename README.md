@@ -2,48 +2,44 @@
 My 3D Artist resume and portfolio
 Veronika Tyshchenko
 
-Position: 3D DesignerEmployment: Full-timeAge: 25 yearsLocation: Kryvyi RihAvailability: Remote work
-
-Contact Information
-
-Telegram: @Nika_Frase
-
-Phone: +38 066 544-02-48
-
+3D Artist (Environment / Props / Stylized Characters)
 Email: nikatichenko0.0@gmail.com
+Telegram: @Nika_Frase
+Portfolio: examples of work below
 
-Social Media: @kubishka_in_blender
+About Me
+
+I enjoy creating models that can captivate the player, feel useful, and fit organically into the game. I work independently and always meet deadlines. I learn quickly and constantly push the complexity of my work. My primary goal is to grow as an environment artist, but I’m also interested in stylized low-poly characters. Creating something new is not just a skill—it's a way of life for me.
 
 Work Experience
 
-3D Designer05/2024 – 12/2024 (7 months)3D Printing, Kryvyi Rih (Publishing and Printing)
+3D Artist (Characters & Props) — ElixirCo Studios 01.2025 – 03.2025 (3 months)
 
-Developed and created highly detailed 3D models for 3D printing, specializing in mechanical structures, including device elements and components.
+▪ Created 16 low-poly characters, with 10 outfit variations each, in 3 different color palettes.
+▪ Prepared UV mapping for each clothing element and character body.
+▪ Integrated models into Unity and tested animation compatibility and rig functionality.
+▪ Used both custom-created and adapted ready-made rigs.
+▪ Performed technical quality checks of third-party models (weight painting, rigging, Uvs).
+▪ Work performed under NDA — samples cannot be published.
 
-Utilized advanced modeling techniques to optimize model functionality and precision, ensuring compliance with material and printing technology requirements.
+3D Designer for Printing — 04.2024 – 12.2024 (9 months) 
 
-Architect-Designer06/2020 – 08/2022 (2 years 2 months)CreativeUnit (Construction, Architecture, Interior Design)
+▪ Developed 15 technically complex 3D models monthly, maintaining high quality and speed.
+▪ Created detailed models optimized for accurate 3D printing based on technical specifications.
+▪ Collaborated with the team to optimize workflows and improve final output quality.
 
-Sales Consultant04/2024 – 04/2024 (1 month)PR Company “SYNDICATE”, Poltava (Marketing, Advertising, PR)
+Architect — «CreativeUnit» LLC 2019 – 2021(2 years)
 
-Client Relationship Manager06/2023 – 03/2024 (9 months)AlfaDate, Poltava (Marketing, Advertising, PR)
+▪ Created architectural drawings and documentation for clients and builders.
+▪ Worked as part of a team on architectural design projects.
 
 Education
 
-National University "Yuri Kondratyuk Poltava Polytechnic"Department of Architecture, Buildings, and Design, PoltavaHigher Education, 2016 – 2020 and 2022 – 2024 (6 years)
+National University «Yuri Kondratyuk Poltava Polytechnic»
+Bachelor’s and Master’s Degree in Architecture
 
-Skills
+Skills & Knowledge
 
-3D Modeling: Blender, ArchiCAD, CorelDRAW, SketchUp, Lumion
-
-Project Design and Visualization
-
-3D Visualization
-
-Drafting and Blueprint Development
-
-Model Optimization
-
-Additional Information
-
-Portfolio: Behance
+Software: Blender, Substance 3D Painter, ZBrush, Unity
+Skills: Low-poly / High-poly modeling, UV unwrapping, model testing in Unity, basic rigging
+Work Style: Independent, detail-oriented, technically accurate, fast learner, committed to quality
